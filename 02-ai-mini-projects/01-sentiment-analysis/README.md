@@ -58,7 +58,7 @@ Or run `python predict.py` without an argument to enter a sentence interactively
 Example output:
 ```text
 Sentiment: POSITIVE
-Model confidence: 55.1%
+Model confidence: <percentage>
 Note: confidence is not a guarantee that the prediction is correct.
 ```
 The confidence value can differ depending on the sentence and installed library versions.
